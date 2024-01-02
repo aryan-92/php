@@ -21,5 +21,6 @@
     $obj2->show();
 
     hgkhjhkjh
-    jkjlljkljlkjljlj
+    jkjlljkljlkjljljasasasa
+    asasasa
 ?>
