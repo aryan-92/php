@@ -19,4 +19,7 @@
     $obj->show();
     $obj1->show();
     $obj2->show();
+
+    hgkhjhkjh
+    jkjlljkljlkjljlj
 ?>
